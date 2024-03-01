@@ -1,5 +1,7 @@
 {
-    "a.txt": "hello",
-    "b.txt": "world",
-    "c.txt": "!"
+    "a.txt": "sandwich",
+    "b.txt":"hotdog",
+	"c.txt":
+    "burrito",
+    "d.txt": "panini","e.txt": "calzone"
 }
